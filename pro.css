@@ -1,0 +1,118 @@
+.bg-container {
+    padding: 20px;
+    background-color: #fc7796;
+    ;
+}
+
+.circle {
+    background-color: #fc7796;
+    color: #272775;
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+    border-color: #272775;
+    border-style: solid;
+}
+
+.icon-2 {
+    font-size: 30px;
+}
+
+.center {
+    text-align: center;
+    font-weight: bold;
+}
+
+.line {
+    border-left: 1px solid #272775;
+    height: 100px;
+    margin-left: 50%;
+}
+
+.r {
+    padding-left: 20px;
+}
+
+.job {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.p {
+    margin-left: 30px;
+}
+
+.gg {
+    margin-left: 80px;
+    margin-right: 100px;
+}
+
+.ui {
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+
+.uii {
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.u {
+    margin-top: 18px;
+}
+
+.job-2 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.fas {
+    margin-left: 5px;
+}
+
+.space {
+    margin-bottom: 5px;
+    margin-right: 70px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+.flex>div {
+    flex: 1;
+}
+
+.bulb {
+    background-color:
+        #272775;
+    color: #fc7796;
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+    border-style: solid;
+    border-color: #272775;
+}
+
+.icon {
+    font-size: 30px;
+}
+
+.horizontal {
+    border-top: 1px solid #272775;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
